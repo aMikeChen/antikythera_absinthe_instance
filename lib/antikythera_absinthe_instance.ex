@@ -1,0 +1,2 @@
+defmodule AntikytheraAbsintheInstance do
+end
