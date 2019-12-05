@@ -59,8 +59,9 @@ try do
         {:croma  , "0.10.2"},
 
         # Absinthe
-        {:absinthe,       "~> 1.4.0"},
-        {:absinthe_relay, "~> 1.4"},
+        {:absinthe,             "~> 1.4.0"},
+        {:absinthe_relay,       "~> 1.4"},
+        {:absinthe_antikythera, github: "aMikeChen/absinthe_antikythera"},
 
         # Database
         {:dataloader, "~> 1.0.0"},
