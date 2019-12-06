@@ -64,7 +64,7 @@ try do
         {:absinthe_antikythera, github: "aMikeChen/absinthe_antikythera"},
 
         # Database
-        {:dataloader, "~> 1.0.0"},
+        {:dodai_client_elixir, [git: "git@github.com:access-company/DodaiClientElixir.git", ref: "5eac32caf90b32740b930d5196b57b61e263260c"]},
 
         # Tools
         {:exsync          , "0.2.4" , [only: :dev ]},
